@@ -1,8 +1,8 @@
 # Basic Auth Brute-Force Script
 
 This Python script is designed to perform brute-force attacks on systems using Basic Authentication.  
-**For ethical and legal use only.**/br
-**C O D E D BY Y A S I N**/br
+**For ethical and legal use only.**<br>
+**C O D E D BY Y A S I N**
 *///7///* 
 ## Features
 - Supports username and password files.

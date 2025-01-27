@@ -2,7 +2,7 @@
 
 This Python script is designed to perform brute-force attacks on systems using Basic Authentication.  
 **For ethical and legal use only.**<br>
-**C O D E D  B Y  Y A S I N**<br>
+**CODED BY YASIN**<br>
 *///7///* 
 ## Features
 - Supports username and password files.
